@@ -3,7 +3,8 @@
 
 ![zero2top's GitHub stats](https://github-readme-stats.vercel.app/api?username=zero2top&show_icons=true&theme=gruvbox)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=spectator)](https://solved.ac/spectator/)  
 
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+SKILLS ✌️
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
 
 
